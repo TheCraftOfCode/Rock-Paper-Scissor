@@ -1,2 +1,2 @@
-# Rock-Paper-Scissor
-This repository contains a rock paper scissor game built using javascript. 
+# Rock-Paper-scissor
+This is a man Vs Computer Rock paper scissor game made using javascript during the odin project
